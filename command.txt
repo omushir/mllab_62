@@ -1,6 +1,0 @@
-Some git commands
-1. git clone <url>
-2. git add . 
-3. git commit -m"comment"
-5. git push
-6. git pull
